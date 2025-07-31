@@ -7,7 +7,7 @@ The goal: Turn raw engagement data into **clear, actionable insights**.
 
 ---
 
-## 💥Dataset
+## ☁️ Dataset
 - Source: Kaggle Viral Social Media Trends & Engagement Analysis Dataset
 - Format: CSV
 - Size: [5000, 10]
