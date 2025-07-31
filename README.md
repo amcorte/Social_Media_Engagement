@@ -38,3 +38,14 @@ The goal: Turn raw engagement data into **clear, actionable insights**.
 
 ## 🚀Key Insights
 - Posts with **#Education** had the **highest average engagement.**
+
+
+---
+
+## Interactive Dashboard
+
+This interactive Tableau dashboard highlights the **top 10 viral posts** from my social media engagement project. It showcases which posts gained the most traction based on a calculated engagement score from likes, comments, and shares --  providing a clear visual of what drives engagement.
+
+### View the Dashboard Here --> [Top 10 Viral Posts Dash](https://public.tableau.com/views/Top10ViralPosts/Dashboard1)
+
+
